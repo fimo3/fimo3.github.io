@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap');
+body {
+background-color: #FF8C19;
+border: 2px dashed Crimson;
+border-radius: 16px;
+font-family: Lucida Calligraphy;
+margin-left:auto;
+margin-right:auto;
+max-width:2014px;
+min-width:256px;
+padding-top:8px;
+padding-bottom:24px;
+padding-left:24px;
+padding-right:24px;
+}
+head {
+    background-color: cornflowerblue;
+    border: 2px dashed lightgreen;
+}
+html {
+background: radial-gradient(circle, Crimson 20%, Blue 80%, Aqua 50%, DarkOrange 50%, SkyBlue);
+background-size: 200px 200px;
+}
+nav ul {
+list-style-type:none;
+background-color:#111111;
+border: 4px solid crimson;
+font-weight:bold;
+}
+nav ul li{
+display:inline;
+border-right:1px dashed #00E600;
+}
+nav ul li:last-child{
+}
+nav ul li a{
+text-decoration:none;
+color: #FFF69F;
+} 
+p {
+    color: black;
+}
+ul li{
+    color: #00E600;
+}
+ul {
+    background-color: black;
+    border: 2px solid aliceblue;
+    background-size: 20px 20px;
+}
+table {
+    font-size: 70%;
+    width: 100%;
+    border-collapse:separate;
+}
+th,td {
+    border: 1px solid gold;
+    padding: 8px;
+    text-align: left;
+}
+th {
+  background: radial-gradient(circle, lightBlue, AliceBlue 50%, SkyBlue 50%, LightCyan);
+ 
+}
+td {
+  background: radial-gradient(circle, Yellow, Coral 50%, LightYellow 50%, Orange);
+ ;  
+}
+div{
+	width:200px;
+	border-left-style: solid;
+	border-color:blue;
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 30px;
+	background-color:#DFFFFF;
+	clear:both;
+}
+.buttonload {
+  background-color: maroon; /* Blue - violet background */
+  border: none; /* Remove borders */
+  color: white; /* White text */
+  padding: 12px 16px; /* Some padding */
+  font-size: 16px /* Set a font size */
+}
+.button {
+  background-color: blueviolet;
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+button a{
+	color:forestgreen;
+}
+button a:hover{
+	color:forestgreen;
+}
+button a:{
+	color:forestgreen;
+}
+.ooo {border-radius: 12px;}
+.button1 {border-radius: 2px;}
+.button2 {border-radius: 4px;}
+.button3 {border-radius: 8px;}
+.button4 {border-radius: 12px;}
+.button5 {border-radius: 50%;}
+p.top-tip {
+    border: 4px solid Green;
+    border-radius: 10px;
+    padding: 16px;
+    background-color: #30957A;
+}
+p.top-tip::before {
+    color: black;
+    content: "Motto:";
+    font-weight: bold;
+}
+.logo{
+	width:50;
+	height:30;
+    border-radius: 10px;
+    padding: 3px;
+	border-style: dotted dashed solid double;
+}
+nav ul li a:link {
+	color: #FFF69F;
+	text-decoration:none;
+}
+nav ul li a:hover {
+	color: #fff6df;
+}
+nav ul li a:active{
+	color:  #55F3F4;
+}
+ol a:link {
+	color: black;
+	text-decoration:none;
+}
+ol a:hover {
+	color: darkgray;
+	background-color: lightgray;
+}
+ol a:active{
+	color: black;
+}
