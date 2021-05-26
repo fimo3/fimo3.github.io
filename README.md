@@ -1,3 +1,2 @@
-# Hey Nicky!
-Upload your whole website including, images!!!!!!!!!!!!!!!!!!!!!!!
-'js'
+# fimo3's website
+[See it here](https://fimo3.github.io/About%20me.html)
